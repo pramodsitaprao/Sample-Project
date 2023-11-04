@@ -3,7 +3,7 @@ package String_In_Java;
 public class ReverseString {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// For checking git code updation on gitHub
 //		StringBuffer s1= new StringBuffer("Hello Pramod");
 //		System.out.println(s1.reverse());
 //		
